@@ -1,0 +1,28 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: #222;
+  color: #aaa;
+}
+
+a {
+  color: #00B7FF;
+}
+
+
+div {
+  padding-top: 20px;
+  border: #00B7FF solid 10px;
+  border-radius: 10px;
+  text-align: center;
+  height: 200px;
+  width: 300px;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
